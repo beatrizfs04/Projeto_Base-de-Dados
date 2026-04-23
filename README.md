@@ -28,9 +28,9 @@ remoções de dados.
 ## Quem participou?
 Este projeto foi realizado por 3 alunos da Lincenciatura de Informática Web, Móvel e na Nuvem.
 
-- Beatriz Santos | Nº 50473
-- Manoela Azevedo | Nº 50034
-- Rodrigo Paiva | Nº 49442
+- Beatriz Santos 
+- Manoela Azevedo 
+- Rodrigo Paiva 
 
 ## Que linguagens de programação foram utilizadas?
 
