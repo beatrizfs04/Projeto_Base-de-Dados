@@ -1,4 +1,4 @@
-# Projeto de Programação no Servidor
+# Projeto de Base de Dados
 ## O que foi feito?
 O presente trabalho visa consolidar os conhecimentos adquiridos na unidade
 curricular através do desenvolvimento e implementação de uma base de
